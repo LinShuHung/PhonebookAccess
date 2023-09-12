@@ -51,6 +51,7 @@
             android:layout_alignParentLeft="true"
             android:text="Get Phone Book"
             android:textAllCaps="false"
+            android:onClick="getPhoneBookFun"
             />
         <ListView
             android:id="@+id/lid_phonebookContent"
